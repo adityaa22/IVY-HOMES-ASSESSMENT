@@ -1,0 +1,4686 @@
+[
+    {
+        "genre": "Action",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0133093"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0133093"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt10189514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10189514"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0103064"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0103064"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0047478"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0047478"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0082971"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0082971"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0060196"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0060196"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0172495"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0082971"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0082971"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt11032374"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt11032374"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt11032374"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2096673"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2096673"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt2096673"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0382932"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0382932"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0382932"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0892769"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0892769"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0892769"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0198781"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0198781"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0198781"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt23849204"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23849204"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt9263550"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt9263550"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0268978"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0268978"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0268978"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0080678"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0080678"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1675434"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1187043"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1187043"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0057012"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0057012"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0211915"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0211915"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0070735"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0070735"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0070735"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0993846"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0068646"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0068646"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0071562"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0071562"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0050083"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0050083"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0110912"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110912"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0317248"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0317248"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0120586"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120586"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9900782"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt9900782"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt9900782"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0111161"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt23849204"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23849204"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0068646"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0068646"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0071562"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0071562"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0050083"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0050083"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0110912"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110912"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0109830"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0109830"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0137523"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7466810"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0099685"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0073486"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt9263550"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt9263550"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt10189514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10189514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1049413"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0986264"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0986264"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0266543"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0012349"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0012349"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0012349"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0476735"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0476735"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1201607"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt1201607"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt1201607"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167260"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120737"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0167261"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0114709"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0119698"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0435761"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt4729430"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt10872600"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt10872600"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt10872600"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0347149"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0457430"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0457430"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0457430"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0043014"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0043014"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0036775"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0036775"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0036775"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0041959"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0041959"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0041959"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0032976"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0032976"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0032976"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0043338"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0043338"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0042041"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0042041"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0042041"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0033870"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0033870"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0033870"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0048424"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0048424"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0048424"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0052311"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0052311"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0052311"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0039689"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0039689"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0039689"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0051036"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0051036"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0038355"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0038355"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0038355"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0044079"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0044079"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0044079"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0038787"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0038787"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0038787"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0049406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0049406"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0049406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0037008"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0037008"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0037008"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0042593"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0042593"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0042593"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0037913"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0037913"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0037913"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0045555"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0045555"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0045555"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0037884"
+    },
+    {
+        "genre": "Film-Noir",
+        "movie_id": "tt0037884"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0108052"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt15398776"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10280296"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0363163"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt8291224"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt8291224"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt8291224"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt2119532"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2119532"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt2119532"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt2024544"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2024544"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt2024544"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0395169"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0395169"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0395169"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0074896"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0074896"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0074896"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0060107"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0060107"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0060107"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0019254"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0019254"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0019254"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0053946"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0053946"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0053946"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1504320"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1504320"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt1504320"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0102138"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0102138"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0102138"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0083987"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0083987"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0083987"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0808417"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0808417"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0808417"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0078748"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0078748"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0081505"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0081505"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0084787"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0084787"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0084787"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt8239946"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt8239946"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt8239946"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0070047"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0046911"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0046911"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0046911"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0063522"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0063522"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056687"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0056687"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0056687"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0010323"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0010323"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0010323"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0365748"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0365748"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0013442"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0013442"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0024216"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0024216"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0024216"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt5052448"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt5052448"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt5052448"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0093773"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0093773"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0093773"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1139797"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt1139797"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt1139797"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0077402"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0077402"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0022913"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0022913"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0063350"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0063350"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2582802"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt2582802"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0086879"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6966692"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0040725"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0040725"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0040725"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0106332"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0106332"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0106332"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0077711"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0077711"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt10366460"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10366460"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt10366460"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2948372"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2948372"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt2948372"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0084503"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0084503"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0084503"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120731"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0120731"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0120731"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0181875"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0181875"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0181875"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1727824"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1727824"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt1727824"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0088258"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0088258"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt3544112"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt3544112"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt3544112"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108394"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0108394"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0108394"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110357"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt8503618"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0367110"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0367110"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt1562872"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1562872"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt1562872"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0059742"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0032138"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0066763"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0066763"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt3783958"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0101414"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0101414"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0101414"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0103639"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0103639"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0103639"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0067093"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0067093"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0067093"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0107688"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0107688"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0107688"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0080455"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0168629"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0168629"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0168629"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0347304"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0347304"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0347304"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0104940"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0104940"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0104940"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0067992"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0067992"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0067992"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt15097216"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0120689"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0245429"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0056058"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0047396"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0047396"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0209144"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0209144"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2380307"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0053125"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0053125"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0053125"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0109830"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0109830"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0038650"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt20850406"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0095765"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0095765"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0027977"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0021749"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7019842"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt7019842"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt5311514"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0119217"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0119217"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0052357"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0053604"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0211915"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0211915"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0045152"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt9052870"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0031381"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0031381"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0031381"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0053291"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1305806"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt1305806"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt1305806"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0816692"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0133093"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0133093"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0080684"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt9362722"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0076759"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0103064"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0103064"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0088763"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0078748"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0078748"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt23289160"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt4154796"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4633694"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt4154756"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt4154756"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt4154756"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0910970"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0338013"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0066921"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0066921"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0062622"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0062622"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Fantasy",
+        "movie_id": "tt0086190"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5074352"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0118849"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt2356180"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt2356180"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt2356180"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1620933"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1620933"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt1620933"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1950186"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1950186"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1950186"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0075148"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0075148"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1979320"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt1979320"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1979320"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1291584"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1291584"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt1291584"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0081398"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0081398"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0081398"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0405159"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0405159"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Musical",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0169102"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0871510"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0871510"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0871510"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0352248"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0352248"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0352248"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0054997"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0054997"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt4169250"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt4169250"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt4169250"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1125849"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt1125849"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0210945"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0210945"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0210945"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0964517"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0964517"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0964517"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0108037"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108037"
+    },
+    {
+        "genre": "Family",
+        "movie_id": "tt0108037"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0412080"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0412080"
+    },
+    {
+        "genre": "Sport",
+        "movie_id": "tt0412080"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0468569"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt1375666"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114369"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0102926"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6751668"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt6751668"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0407887"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0110413"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0482571"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0114814"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0047396"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0047396"
+    },
+    {
+        "genre": "Horror",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0054215"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0364569"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt7286456"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1345836"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1345836"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt1345836"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Sci-Fi",
+        "movie_id": "tt0090605"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0209144"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0209144"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0051201"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0405094"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0057565"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0120815"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0120815"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0118799"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "Romance",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0034583"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Music",
+        "movie_id": "tt0253474"
+    },
+    {
+        "genre": "Animation",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0095327"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0361748"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0078788"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0091251"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0057012"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0057012"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0082096"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0082096"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0050825"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0050825"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0032553"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0112573"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt1255953"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0093058"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0093058"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056172"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0055031"
+    },
+    {
+        "genre": "War",
+        "movie_id": "tt0055031"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt10295212"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt6316138"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0057115"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0060196"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0060196"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1853728"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt1853728"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0064116"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0105695"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0105695"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0059578"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0059578"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0040897"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0040897"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0040897"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0056217"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0056217"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0073707"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0015864"
+    },
+    {
+        "genre": "Comedy",
+        "movie_id": "tt0015864"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0015864"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt1663202"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt1663202"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt1663202"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0099348"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0099348"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0099348"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0053221"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0053221"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0064115"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt0064115"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0064115"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0044706"
+    },
+    {
+        "genre": "Thriller",
+        "movie_id": "tt0044706"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0044706"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0058461"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0058461"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0058461"
+    },
+    {
+        "genre": "Action",
+        "movie_id": "tt0065214"
+    },
+    {
+        "genre": "Adventure",
+        "movie_id": "tt0065214"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0065214"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt5537002"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt5537002"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt5537002"
+    },
+    {
+        "genre": "Biography",
+        "movie_id": "tt0108358"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt0108358"
+    },
+    {
+        "genre": "History",
+        "movie_id": "tt0108358"
+    },
+    {
+        "genre": "Crime",
+        "movie_id": "tt3460252"
+    },
+    {
+        "genre": "Drama",
+        "movie_id": "tt3460252"
+    },
+    {
+        "genre": "Mystery",
+        "movie_id": "tt3460252"
+    },
+    {
+        "genre": "Western",
+        "movie_id": "tt0075029"
+    }
+]
