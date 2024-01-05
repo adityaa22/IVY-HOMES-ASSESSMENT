@@ -57,6 +57,7 @@ I have implemented a solution using Python, utilizing web scraping techniques to
   ![alt text](https://github.com/adityaa22/IVY-HOMES-ASSESSMENT/blob/main/DB_dump/DB_arch.png)
 
   (P.S. - "rank" attribute was removed from movies table)
+  - For the Databse Dump [click here](https://github.com/adityaa22/IVY-HOMES-ASSESSMENT/tree/main/DB_dump)
 
   ## Script Explaination
   * (This section will be updated in future)
