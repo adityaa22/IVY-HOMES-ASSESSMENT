@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 
 # Function to extract details of one movie
-def extract_movie_details(soup: BeautifulSoup, movie_id: str, rank: int, movie_count: int, review_count: int, base_url: str) -> Movie:
+def extract_movie_details(soup: BeautifulSoup, movie_id: str, movie_count: int, review_count: int, base_url: str) -> Movie:
 
     try:
 
@@ -23,7 +23,7 @@ def extract_movie_details(soup: BeautifulSoup, movie_id: str, rank: int, movie_c
         # Extract plot
         plot = soup.find("span", {"data-testid" : "plot-xl"}).text
 
-        movie = Movie(movie_id, name, year, rank, plot)
+        movie = Movie(movie_id, name, year, plot)
         datastore_object.insert_into_movies(movie)
 
         datastore_object.commit()
@@ -33,8 +33,8 @@ def extract_movie_details(soup: BeautifulSoup, movie_id: str, rank: int, movie_c
         for genreName in genres:
             genre = datastore_object.session.query(Genre).filter_by(genre=genreName).first()
             datastore_object.insert_into_movie_genre_association(movie_id, genre)
+            datastore_object.commit()
         
-        datastore_object.commit()
         div = soup.find("div", {"class" : "sc-69e49b85-3 dIOekc"}).contents[0].contents[0]
 
         # Extract cast
@@ -48,15 +48,15 @@ def extract_movie_details(soup: BeautifulSoup, movie_id: str, rank: int, movie_c
         for i in range (len(cast_name)):
             star = Star(cast_id[i], cast_name[i])
             datastore_object.insert_into_stars(star)
+            datastore_object.commit()
             
         
-        datastore_object.commit()
 
         for i in range (len(cast_name)):
             star = datastore_object.session.query(Star).filter_by(id=cast_id[i]).first()
             datastore_object.insert_into_movie_star_association(movie_id, star)
+            datastore_object.commit()
 
-        datastore_object.commit()
         
         # Extract director
         director_id_links = [director_id_link.contents[0].get("href") for director_id_link in div.contents[0].contents[1].contents[0]]
@@ -69,15 +69,15 @@ def extract_movie_details(soup: BeautifulSoup, movie_id: str, rank: int, movie_c
         for i in range (len(director_name)):
             director = Director(director_id[i], director_name[i])
             datastore_object.insert_into_directors(director)
+            datastore_object.commit()
 
 
-        datastore_object.commit()
 
         for i in range (len(director_name)):
             director = datastore_object.session.query(Director).filter_by(id=director_id[i]).first()
             datastore_object.insert_into_movie_director_association(movie_id, director)
+            datastore_object.commit()
 
-        datastore_object.commit()
 
         # Extract reviews
         try:
@@ -111,7 +111,7 @@ def extract_movies_list_by_genre(genre: str, base_url: str, movie_count: int, re
             try:
                 soup = generate_soup(movie_links[i])
                 movie_id = re.search(r'/title/(.*?)/', movie_links[i]).group(1)
-                movie = extract_movie_details(soup, movie_id, i + 1, movie_count, review_count, base_url)
+                movie = extract_movie_details(soup, movie_id, movie_count, review_count, base_url)
                 movies.append(movie)
             except Exception as e:
                 print(f"[ERROR]: {e}")

@@ -120,31 +120,25 @@ class Movie(Base):
     id = Column(String(), primary_key=True, nullable=False)
     name = Column(String(), nullable=False)
     year = Column(String(), nullable=False)
-    rank = Column(Integer(), nullable=False)
     plot = Column(String(), nullable=False)
     genres = relationship('Genre', secondary=movie_genre_association_table, backref='genre_ref')
     directors = relationship('Director', secondary=movie_director_association_table, backref='director_ref')
     stars = relationship('Star', secondary=movie_star_association_table, backref='star_ref')
     
 
-    def __init__(self, id: str, name: str, year: str, rank: int, plot: str):
+    def __init__(self, id: str, name: str, year: str, plot: str):
         self.id = id
         self.name = name
         self.year = year
-        self.rank = rank
         self.plot = plot
 
     def __repr__(self):
-        return f"<Name= {self.name}> <Year= {self.year}> <Rank= {self.rank}> <Plot= {self.plot}>"
+        return f"<Name= {self.name}> <Year= {self.year}> <Plot= {self.plot}>"
 
 class DataStore:
-    def __new__(cls):
-        if not hasattr(cls, 'instance'):
-            cls.instance = super(DataStore, cls).__new__(cls)
-        return cls.instance
 
     def __init__(self):
-        self.session = sessionmaker()(bind=engine, expire_on_commit=False)
+        self.session = sessionmaker()(bind=engine, expire_on_commit=False, autoflush=False)
         if os.path.exists(db_path):
             pass
         else:

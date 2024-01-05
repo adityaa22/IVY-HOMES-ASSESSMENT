@@ -4,24 +4,36 @@
         "name": "Christopher Nolan"
     },
     {
+        "id": "nm0021249",
+        "name": "Roger Allers"
+    },
+    {
+        "id": "nm0591450",
+        "name": "Rob Minkoff"
+    },
+    {
+        "id": "nm0001008",
+        "name": "Frank Capra"
+    },
+    {
+        "id": "nm7882203",
+        "name": "Kiranraj K"
+    },
+    {
+        "id": "nm0000709",
+        "name": "Robert Zemeckis"
+    },
+    {
+        "id": "nm0000229",
+        "name": "Steven Spielberg"
+    },
+    {
+        "id": "nm4318159",
+        "name": "Nitesh Tiwari"
+    },
+    {
         "id": "nm0001392",
         "name": "Peter Jackson"
-    },
-    {
-        "id": "nm0905154",
-        "name": "Lana Wachowski"
-    },
-    {
-        "id": "nm0905152",
-        "name": "Lilly Wachowski"
-    },
-    {
-        "id": "nm0449984",
-        "name": "Irvin Kershner"
-    },
-    {
-        "id": "nm1464314",
-        "name": "Sudha Kongara"
     },
     {
         "id": "nm1690966",
@@ -36,80 +48,76 @@
         "name": "Justin K. Thompson"
     },
     {
-        "id": "nm0000184",
-        "name": "George Lucas"
+        "id": "nm2371802",
+        "name": "Thomas Kail"
     },
     {
-        "id": "nm0000116",
-        "name": "James Cameron"
+        "id": "nm0000905",
+        "name": "Roberto Benigni"
     },
     {
-        "id": "nm0000041",
-        "name": "Akira Kurosawa"
+        "id": "nm0006498",
+        "name": "Majid Majidi"
     },
     {
-        "id": "nm0462030",
-        "name": "Masaki Kobayashi"
-    },
-    {
-        "id": "nm2380725",
-        "name": "Hanu Raghavapudi"
-    },
-    {
-        "id": "nm0000631",
-        "name": "Ridley Scott"
-    },
-    {
-        "id": "nm0000108",
-        "name": "Luc Besson"
-    },
-    {
-        "id": "nm0945724",
-        "name": "Takashi Yamazaki"
-    },
-    {
-        "id": "nm0000229",
-        "name": "Steven Spielberg"
-    },
-    {
-        "id": "nm0661791",
-        "name": "Park Chan-wook"
-    },
-    {
-        "id": "nm0751577",
-        "name": "Anthony Russo"
-    },
-    {
-        "id": "nm0751648",
-        "name": "Joe Russo"
-    },
-    {
-        "id": "nm0001466",
-        "name": "Sergio Leone"
-    },
-    {
-        "id": "nm7882203",
-        "name": "Kiranraj K"
+        "id": "nm1999473",
+        "name": "Shoojit Sircar"
     },
     {
         "id": "nm0594503",
         "name": "Hayao Miyazaki"
     },
     {
-        "id": "nm0000709",
-        "name": "Robert Zemeckis"
+        "id": "nm1018493",
+        "name": "Rakeysh Omprakash Mehra"
     },
     {
-        "id": "nm0021249",
-        "name": "Roger Allers"
+        "id": "nm0002045",
+        "name": "Stanley Donen"
     },
     {
-        "id": "nm0591450",
-        "name": "Rob Minkoff"
+        "id": "nm0000037",
+        "name": "Gene Kelly"
     },
     {
-        "id": "nm0000233",
-        "name": "Quentin Tarantino"
+        "id": "nm0000399",
+        "name": "David Fincher"
+    },
+    {
+        "id": "nm0000154",
+        "name": "Mel Gibson"
+    },
+    {
+        "id": "nm0619923",
+        "name": "Olivier Nakache"
+    },
+    {
+        "id": "nm0865918",
+        "name": "Éric Toledano"
+    },
+    {
+        "id": "nm2380725",
+        "name": "Hanu Raghavapudi"
+    },
+    {
+        "id": "nm0001129",
+        "name": "Jonathan Demme"
+    },
+    {
+        "id": "nm0332950",
+        "name": "Ashutosh Gowariker"
+    },
+    {
+        "id": "nm0223606",
+        "name": "Tigmanshu Dhulia"
+    },
+    {
+        "id": "nm0000122",
+        "name": "Charles Chaplin"
+    },
+    {
+        "id": "nm0002031",
+        "name": "Michael Curtiz"
     },
     {
         "id": "nm2130108",
@@ -124,12 +132,32 @@
         "name": "Rodney Rothman"
     },
     {
-        "id": "nm0847223",
-        "name": "Isao Takahata"
+        "id": "nm0015295",
+        "name": "Zoya Akhtar"
     },
     {
-        "id": "nm1396121",
-        "name": "Makoto Shinkai"
+        "id": "nm0905154",
+        "name": "Lana Wachowski"
+    },
+    {
+        "id": "nm0905152",
+        "name": "Lilly Wachowski"
+    },
+    {
+        "id": "nm0094435",
+        "name": "Bong Joon Ho"
+    },
+    {
+        "id": "nm0003506",
+        "name": "James Mangold"
+    },
+    {
+        "id": "nm8631915",
+        "name": "Can Ulkay"
+    },
+    {
+        "id": "nm0868153",
+        "name": "Giuseppe Tornatore"
     },
     {
         "id": "nm0881279",
@@ -140,236 +168,32 @@
         "name": "Adrian Molina"
     },
     {
-        "id": "nm0004056",
-        "name": "Andrew Stanton"
+        "id": "nm0000814",
+        "name": "John G. Avildsen"
     },
     {
-        "id": "nm0005124",
-        "name": "John Lasseter"
-    },
-    {
-        "id": "nm0230032",
-        "name": "Pete Docter"
-    },
-    {
-        "id": "nm0677037",
-        "name": "Bob Peterson"
-    },
-    {
-        "id": "nm0655053",
-        "name": "Sergio Pablos"
-    },
-    {
-        "id": "nm3582089",
-        "name": "Carlos Martínez López"
-    },
-    {
-        "id": "nm1417038",
-        "name": "Haruo Sotozaki"
-    },
-    {
-        "id": "nm0215455",
-        "name": "Ronnie Del Carmen"
-    },
-    {
-        "id": "nm0083348",
-        "name": "Brad Bird"
-    },
-    {
-        "id": "nm0684342",
-        "name": "Jan Pinkava"
-    },
-    {
-        "id": "nm0213450",
-        "name": "Dean DeBlois"
-    },
-    {
-        "id": "nm0761498",
-        "name": "Chris Sanders"
-    },
-    {
-        "id": "nm0798899",
-        "name": "David Silverman"
-    },
-    {
-        "id": "nm0006765",
-        "name": "Vidhu Vinod Chopra"
+        "id": "nm0449984",
+        "name": "Irvin Kershner"
     },
     {
         "id": "nm0000217",
         "name": "Martin Scorsese"
     },
     {
-        "id": "nm0534856",
-        "name": "Madhavan"
-    },
-    {
-        "id": "nm0000591",
-        "name": "Roman Polanski"
-    },
-    {
-        "id": "nm0619923",
-        "name": "Olivier Nakache"
-    },
-    {
-        "id": "nm0865918",
-        "name": "Éric Toledano"
-    },
-    {
-        "id": "nm0001232",
-        "name": "Milos Forman"
-    },
-    {
-        "id": "nm1999473",
-        "name": "Shoojit Sircar"
-    },
-    {
-        "id": "nm0000154",
-        "name": "Mel Gibson"
-    },
-    {
-        "id": "nm2371802",
-        "name": "Thomas Kail"
-    },
-    {
-        "id": "nm0000180",
-        "name": "David Lean"
-    },
-    {
-        "id": "nm4318159",
-        "name": "Nitesh Tiwari"
-    },
-    {
-        "id": "nm3315387",
-        "name": "Vishnuvardhan"
-    },
-    {
-        "id": "nm8631915",
-        "name": "Can Ulkay"
-    },
-    {
-        "id": "nm0268380",
-        "name": "Peter Farrelly"
-    },
-    {
-        "id": "nm0000165",
-        "name": "Ron Howard"
-    },
-    {
-        "id": "nm0386570",
-        "name": "Oliver Hirschbiegel"
-    },
-    {
-        "id": "nm0000186",
-        "name": "David Lynch"
-    },
-    {
-        "id": "nm0000905",
-        "name": "Roberto Benigni"
-    },
-    {
-        "id": "nm0000122",
-        "name": "Charles Chaplin"
-    },
-    {
-        "id": "nm0386246",
-        "name": "Rajkumar Hirani"
-    },
-    {
-        "id": "nm0000040",
-        "name": "Stanley Kubrick"
-    },
-    {
-        "id": "nm0000697",
-        "name": "Billy Wilder"
-    },
-    {
-        "id": "nm0000466",
-        "name": "Jean-Pierre Jeunet"
-    },
-    {
-        "id": "nm0002045",
-        "name": "Stanley Donen"
-    },
-    {
-        "id": "nm0000037",
-        "name": "Gene Kelly"
-    },
-    {
-        "id": "nm0001351",
-        "name": "George Roy Hill"
-    },
-    {
-        "id": "nm0000338",
-        "name": "Francis Ford Coppola"
-    },
-    {
-        "id": "nm0001486",
-        "name": "Sidney Lumet"
-    },
-    {
-        "id": "nm4377096",
-        "name": "T.J. Gnanavel"
-    },
-    {
-        "id": "nm0001104",
-        "name": "Frank Darabont"
-    },
-    {
-        "id": "nm0000399",
-        "name": "David Fincher"
-    },
-    {
-        "id": "nm0001129",
-        "name": "Jonathan Demme"
-    },
-    {
-        "id": "nm0576987",
-        "name": "Fernando Meirelles"
-    },
-    {
-        "id": "nm0526199",
-        "name": "Kátia Lund"
-    },
-    {
-        "id": "nm0001741",
-        "name": "Bryan Singer"
-    },
-    {
-        "id": "nm0443411",
-        "name": "Tony Kaye"
-    },
-    {
-        "id": "nm0680846",
-        "name": "Todd Phillips"
-    },
-    {
-        "id": "nm7992231",
-        "name": "Lokesh Kanagaraj"
-    },
-    {
-        "id": "nm0001008",
-        "name": "Frank Capra"
-    },
-    {
-        "id": "nm0451148",
-        "name": "Aamir Khan"
-    },
-    {
-        "id": "nm1244760",
-        "name": "Amole Gupte"
-    },
-    {
-        "id": "nm0006498",
-        "name": "Majid Majidi"
-    },
-    {
-        "id": "nm1463981",
-        "name": "Çagan Irmak"
+        "id": "nm0836328",
+        "name": "John Sturges"
     },
     {
         "id": "nm0936404",
         "name": "Robert Wise"
+    },
+    {
+        "id": "nm0004056",
+        "name": "Andrew Stanton"
+    },
+    {
+        "id": "nm0386570",
+        "name": "Oliver Hirschbiegel"
     },
     {
         "id": "nm0281808",
@@ -380,120 +204,272 @@
         "name": "King Vidor"
     },
     {
-        "id": "nm0946734",
-        "name": "David Yates"
+        "id": "nm0000108",
+        "name": "Luc Besson"
     },
     {
-        "id": "nm0549658",
-        "name": "Richard Marquand"
+        "id": "nm0005124",
+        "name": "John Lasseter"
     },
     {
-        "id": "nm1218281",
-        "name": "Jon Watts"
+        "id": "nm1464314",
+        "name": "Sudha Kongara"
     },
     {
-        "id": "nm0868219",
-        "name": "Guillermo del Toro"
+        "id": "nm0000165",
+        "name": "Ron Howard"
     },
     {
-        "id": "nm0715346",
-        "name": "Carol Reed"
-    },
-    {
-        "id": "nm0000033",
-        "name": "Alfred Hitchcock"
-    },
-    {
-        "id": "nm0909825",
-        "name": "Raoul Walsh"
-    },
-    {
-        "id": "nm0001379",
-        "name": "John Huston"
-    },
-    {
-        "id": "nm0001452",
-        "name": "Charles Laughton"
-    },
-    {
-        "id": "nm0000080",
-        "name": "Orson Welles"
-    },
-    {
-        "id": "nm0869664",
-        "name": "Jacques Tourneur"
-    },
-    {
-        "id": "nm0533241",
-        "name": "Alexander Mackendrick"
-    },
-    {
-        "id": "nm0001328",
-        "name": "Howard Hawks"
-    },
-    {
-        "id": "nm0695937",
-        "name": "Otto Preminger"
-    },
-    {
-        "id": "nm0541149",
-        "name": "Rouben Mamoulian"
-    },
-    {
-        "id": "nm0712947",
-        "name": "Nicholas Ray"
-    },
-    {
-        "id": "nm0002031",
-        "name": "Michael Curtiz"
-    },
-    {
-        "id": "nm0000485",
-        "name": "Fritz Lang"
-    },
-    {
-        "id": "nm0836328",
-        "name": "John Sturges"
+        "id": "nm0386246",
+        "name": "Rajkumar Hirani"
     },
     {
         "id": "nm2336554",
         "name": "Aditya Dhar"
     },
     {
+        "id": "nm0640334",
+        "name": "Gavin O'Connor"
+    },
+    {
+        "id": "nm0230032",
+        "name": "Pete Docter"
+    },
+    {
+        "id": "nm0677037",
+        "name": "Bob Peterson"
+    },
+    {
+        "id": "nm0802693",
+        "name": "Ramesh Sippy"
+    },
+    {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick"
+    },
+    {
+        "id": "nm4242320",
+        "name": "C. Prem Kumar"
+    },
+    {
+        "id": "nm0001741",
+        "name": "Bryan Singer"
+    },
+    {
+        "id": "nm0000184",
+        "name": "George Lucas"
+    },
+    {
+        "id": "nm0000142",
+        "name": "Clint Eastwood"
+    },
+    {
         "id": "nm2588606",
         "name": "Steve McQueen"
+    },
+    {
+        "id": "nm1396121",
+        "name": "Makoto Shinkai"
+    },
+    {
+        "id": "nm0000033",
+        "name": "Alfred Hitchcock"
+    },
+    {
+        "id": "nm0611531",
+        "name": "Hrishikesh Mukherjee"
+    },
+    {
+        "id": "nm0451148",
+        "name": "Aamir Khan"
+    },
+    {
+        "id": "nm1244760",
+        "name": "Amole Gupte"
+    },
+    {
+        "id": "nm0000116",
+        "name": "James Cameron"
+    },
+    {
+        "id": "nm0001814",
+        "name": "Gus Van Sant"
     },
     {
         "id": "nm0313623",
         "name": "Terry George"
     },
     {
+        "id": "nm3227090",
+        "name": "Damien Chazelle"
+    },
+    {
+        "id": "nm0655053",
+        "name": "Sergio Pablos"
+    },
+    {
+        "id": "nm3582089",
+        "name": "Carlos Martínez López"
+    },
+    {
+        "id": "nm0000041",
+        "name": "Akira Kurosawa"
+    },
+    {
+        "id": "nm0327273",
+        "name": "Michel Gondry"
+    },
+    {
+        "id": "nm0000697",
+        "name": "Billy Wilder"
+    },
+    {
+        "id": "nm0024912",
+        "name": "Shimit Amin"
+    },
+    {
+        "id": "nm0661791",
+        "name": "Park Chan-wook"
+    },
+    {
+        "id": "nm0873779",
+        "name": "Gary Trousdale"
+    },
+    {
+        "id": "nm0936374",
+        "name": "Kirk Wise"
+    },
+    {
         "id": "nm0002160",
         "name": "Moustapha Akkad"
+    },
+    {
+        "id": "nm0462030",
+        "name": "Masaki Kobayashi"
     },
     {
         "id": "nm0001789",
         "name": "Andrei Tarkovsky"
     },
     {
+        "id": "nm0166256",
+        "name": "Ron Clements"
+    },
+    {
+        "id": "nm0680846",
+        "name": "Todd Phillips"
+    },
+    {
+        "id": "nm0615780",
+        "name": "John Musker"
+    },
+    {
+        "id": "nm0000466",
+        "name": "Jean-Pierre Jeunet"
+    },
+    {
+        "id": "nm0422484",
+        "name": "Norman Jewison"
+    },
+    {
+        "id": "nm0744035",
+        "name": "Robert Rossen"
+    },
+    {
         "id": "nm0003433",
         "name": "Carl Theodor Dreyer"
+    },
+    {
+        "id": "nm0000631",
+        "name": "Ridley Scott"
+    },
+    {
+        "id": "nm0783139",
+        "name": "Henry Selick"
+    },
+    {
+        "id": "nm14112827",
+        "name": "Mathur Goswami"
+    },
+    {
+        "id": "nm3109770",
+        "name": "Neeraj Pandey"
     },
     {
         "id": "nm0006452",
         "name": "Stanley Kramer"
     },
     {
+        "id": "nm0000484",
+        "name": "John Landis"
+    },
+    {
         "id": "nm0393799",
         "name": "Tom Hooper"
+    },
+    {
+        "id": "nm0004716",
+        "name": "Darren Aronofsky"
+    },
+    {
+        "id": "nm0001351",
+        "name": "George Roy Hill"
+    },
+    {
+        "id": "nm1463981",
+        "name": "Çagan Irmak"
+    },
+    {
+        "id": "nm0945724",
+        "name": "Takashi Yamazaki"
+    },
+    {
+        "id": "nm0001885",
+        "name": "Lars von Trier"
+    },
+    {
+        "id": "nm0459552",
+        "name": "Elem Klimov"
+    },
+    {
+        "id": "nm0002030",
+        "name": "George Cukor"
+    },
+    {
+        "id": "nm0939992",
+        "name": "Sam Wood"
     },
     {
         "id": "nm0000231",
         "name": "Oliver Stone"
     },
     {
+        "id": "nm0945026",
+        "name": "Boaz Yakin"
+    },
+    {
+        "id": "nm0012541",
+        "name": "Nikkhil Advani"
+    },
+    {
         "id": "nm0000277",
         "name": "Richard Attenborough"
+    },
+    {
+        "id": "nm0751102",
+        "name": "David O. Russell"
+    },
+    {
+        "id": "nm0005008",
+        "name": "Brian Henson"
+    },
+    {
+        "id": "nm0002728",
+        "name": "Juan José Campanella"
+    },
+    {
+        "id": "nm0003697",
+        "name": "Florian Henckel von Donnersmarck"
     },
     {
         "id": "nm1749112",
@@ -504,8 +480,64 @@
         "name": "Marjane Satrapi"
     },
     {
+        "id": "nm0946734",
+        "name": "David Yates"
+    },
+    {
+        "id": "nm0835799",
+        "name": "Mel Stuart"
+    },
+    {
+        "id": "nm0262693",
+        "name": "David Mickey Evans"
+    },
+    {
+        "id": "nm0751577",
+        "name": "Anthony Russo"
+    },
+    {
+        "id": "nm0751648",
+        "name": "Joe Russo"
+    },
+    {
+        "id": "nm0000338",
+        "name": "Francis Ford Coppola"
+    },
+    {
+        "id": "nm0002044",
+        "name": "Roger Donaldson"
+    },
+    {
+        "id": "nm4377096",
+        "name": "T.J. Gnanavel"
+    },
+    {
+        "id": "nm0001104",
+        "name": "Frank Darabont"
+    },
+    {
+        "id": "nm0001486",
+        "name": "Sidney Lumet"
+    },
+    {
         "id": "nm0000118",
         "name": "John Carpenter"
+    },
+    {
+        "id": "nm0000233",
+        "name": "Quentin Tarantino"
+    },
+    {
+        "id": "nm0000591",
+        "name": "Roman Polanski"
+    },
+    {
+        "id": "nm0001466",
+        "name": "Sergio Leone"
+    },
+    {
+        "id": "nm0847223",
+        "name": "Isao Takahata"
     },
     {
         "id": "nm9751348",
@@ -532,8 +564,20 @@
         "name": "Robert Aldrich"
     },
     {
+        "id": "nm0000583",
+        "name": "Wolfgang Petersen"
+    },
+    {
         "id": "nm0927468",
         "name": "Robert Wiene"
+    },
+    {
+        "id": "nm0576987",
+        "name": "Fernando Meirelles"
+    },
+    {
+        "id": "nm0526199",
+        "name": "Kátia Lund"
     },
     {
         "id": "nm0942367",
@@ -552,12 +596,28 @@
         "name": "Ernest B. Schoedsack"
     },
     {
+        "id": "nm0898288",
+        "name": "Denis Villeneuve"
+    },
+    {
         "id": "nm1443502",
         "name": "Jordan Peele"
     },
     {
+        "id": "nm0549658",
+        "name": "Richard Marquand"
+    },
+    {
+        "id": "nm0443411",
+        "name": "Tony Kaye"
+    },
+    {
         "id": "nm0001532",
         "name": "John McTiernan"
+    },
+    {
+        "id": "nm0000180",
+        "name": "David Lean"
     },
     {
         "id": "nm0019247",
@@ -568,12 +628,48 @@
         "name": "George A. Romero"
     },
     {
+        "id": "nm1218281",
+        "name": "Jon Watts"
+    },
+    {
+        "id": "nm3315387",
+        "name": "Vishnuvardhan"
+    },
+    {
         "id": "nm0115218",
         "name": "Tod Browning"
     },
     {
-        "id": "nm3227090",
-        "name": "Damien Chazelle"
+        "id": "nm7992231",
+        "name": "Lokesh Kanagaraj"
+    },
+    {
+        "id": "nm0868219",
+        "name": "Guillermo del Toro"
+    },
+    {
+        "id": "nm0006765",
+        "name": "Vidhu Vinod Chopra"
+    },
+    {
+        "id": "nm0715346",
+        "name": "Carol Reed"
+    },
+    {
+        "id": "nm0001232",
+        "name": "Milos Forman"
+    },
+    {
+        "id": "nm0268380",
+        "name": "Peter Farrelly"
+    },
+    {
+        "id": "nm0909825",
+        "name": "Raoul Walsh"
+    },
+    {
+        "id": "nm0001379",
+        "name": "John Huston"
     },
     {
         "id": "nm0003836",
@@ -584,12 +680,44 @@
         "name": "Emeric Pressburger"
     },
     {
+        "id": "nm0000406",
+        "name": "John Ford"
+    },
+    {
+        "id": "nm0001452",
+        "name": "Charles Laughton"
+    },
+    {
         "id": "nm0155280",
         "name": "Kaige Chen"
     },
     {
+        "id": "nm0000080",
+        "name": "Orson Welles"
+    },
+    {
         "id": "nm0000005",
         "name": "Ingmar Bergman"
+    },
+    {
+        "id": "nm0869664",
+        "name": "Jacques Tourneur"
+    },
+    {
+        "id": "nm0327944",
+        "name": "Alejandro G. Iñárritu"
+    },
+    {
+        "id": "nm0533241",
+        "name": "Alexander Mackendrick"
+    },
+    {
+        "id": "nm0000126",
+        "name": "Kevin Costner"
+    },
+    {
+        "id": "nm0001328",
+        "name": "Howard Hawks"
     },
     {
         "id": "nm1571761",
@@ -600,20 +728,76 @@
         "name": "Alan Parker"
     },
     {
-        "id": "nm0868153",
-        "name": "Giuseppe Tornatore"
+        "id": "nm0003593",
+        "name": "Fred Zinnemann"
+    },
+    {
+        "id": "nm1417038",
+        "name": "Haruo Sotozaki"
+    },
+    {
+        "id": "nm0695937",
+        "name": "Otto Preminger"
+    },
+    {
+        "id": "nm0541149",
+        "name": "Rouben Mamoulian"
     },
     {
         "id": "nm0001081",
         "name": "Cameron Crowe"
     },
     {
-        "id": "nm0000484",
-        "name": "John Landis"
+        "id": "nm0215455",
+        "name": "Ronnie Del Carmen"
+    },
+    {
+        "id": "nm0001603",
+        "name": "Sam Peckinpah"
+    },
+    {
+        "id": "nm0712947",
+        "name": "Nicholas Ray"
+    },
+    {
+        "id": "nm0083348",
+        "name": "Brad Bird"
+    },
+    {
+        "id": "nm0684342",
+        "name": "Jan Pinkava"
+    },
+    {
+        "id": "nm0213450",
+        "name": "Dean DeBlois"
+    },
+    {
+        "id": "nm0761498",
+        "name": "Chris Sanders"
+    },
+    {
+        "id": "nm0000485",
+        "name": "Fritz Lang"
+    },
+    {
+        "id": "nm0798899",
+        "name": "David Silverman"
     },
     {
         "id": "nm0001661",
         "name": "Rob Reiner"
+    },
+    {
+        "id": "nm0534856",
+        "name": "Madhavan"
+    },
+    {
+        "id": "nm0181902",
+        "name": "George P. Cosmatos"
+    },
+    {
+        "id": "nm0418883",
+        "name": "Kevin Jarre"
     },
     {
         "id": "nm0138809",
@@ -624,191 +808,7 @@
         "name": "Krzysztof Kieslowski"
     },
     {
-        "id": "nm0332950",
-        "name": "Ashutosh Gowariker"
-    },
-    {
-        "id": "nm0015295",
-        "name": "Zoya Akhtar"
-    },
-    {
-        "id": "nm0802693",
-        "name": "Ramesh Sippy"
-    },
-    {
-        "id": "nm0611531",
-        "name": "Hrishikesh Mukherjee"
-    },
-    {
-        "id": "nm0873779",
-        "name": "Gary Trousdale"
-    },
-    {
-        "id": "nm0936374",
-        "name": "Kirk Wise"
-    },
-    {
-        "id": "nm0166256",
-        "name": "Ron Clements"
-    },
-    {
-        "id": "nm0615780",
-        "name": "John Musker"
-    },
-    {
-        "id": "nm0422484",
-        "name": "Norman Jewison"
-    },
-    {
-        "id": "nm0783139",
-        "name": "Henry Selick"
-    },
-    {
-        "id": "nm0001885",
-        "name": "Lars von Trier"
-    },
-    {
-        "id": "nm0012541",
-        "name": "Nikkhil Advani"
-    },
-    {
-        "id": "nm0005008",
-        "name": "Brian Henson"
-    },
-    {
-        "id": "nm0835799",
-        "name": "Mel Stuart"
-    },
-    {
-        "id": "nm0003697",
-        "name": "Florian Henckel von Donnersmarck"
-    },
-    {
-        "id": "nm0898288",
-        "name": "Denis Villeneuve"
-    },
-    {
-        "id": "nm4242320",
-        "name": "C. Prem Kumar"
-    },
-    {
-        "id": "nm0001814",
-        "name": "Gus Van Sant"
-    },
-    {
-        "id": "nm0327273",
-        "name": "Michel Gondry"
-    },
-    {
-        "id": "nm0002030",
-        "name": "George Cukor"
-    },
-    {
-        "id": "nm0939992",
-        "name": "Sam Wood"
-    },
-    {
-        "id": "nm0002728",
-        "name": "Juan José Campanella"
-    },
-    {
-        "id": "nm1018493",
-        "name": "Rakeysh Omprakash Mehra"
-    },
-    {
-        "id": "nm0223606",
-        "name": "Tigmanshu Dhulia"
-    },
-    {
-        "id": "nm0003506",
-        "name": "James Mangold"
-    },
-    {
-        "id": "nm0000814",
-        "name": "John G. Avildsen"
-    },
-    {
-        "id": "nm0640334",
-        "name": "Gavin O'Connor"
-    },
-    {
-        "id": "nm0000142",
-        "name": "Clint Eastwood"
-    },
-    {
-        "id": "nm0024912",
-        "name": "Shimit Amin"
-    },
-    {
-        "id": "nm0744035",
-        "name": "Robert Rossen"
-    },
-    {
-        "id": "nm14112827",
-        "name": "Mathur Goswami"
-    },
-    {
-        "id": "nm3109770",
-        "name": "Neeraj Pandey"
-    },
-    {
-        "id": "nm0004716",
-        "name": "Darren Aronofsky"
-    },
-    {
-        "id": "nm0945026",
-        "name": "Boaz Yakin"
-    },
-    {
-        "id": "nm0751102",
-        "name": "David O. Russell"
-    },
-    {
-        "id": "nm0262693",
-        "name": "David Mickey Evans"
-    },
-    {
-        "id": "nm0002044",
-        "name": "Roger Donaldson"
-    },
-    {
-        "id": "nm0094435",
-        "name": "Bong Joon Ho"
-    },
-    {
-        "id": "nm0459552",
-        "name": "Elem Klimov"
-    },
-    {
-        "id": "nm0000583",
-        "name": "Wolfgang Petersen"
-    },
-    {
-        "id": "nm0000406",
-        "name": "John Ford"
-    },
-    {
-        "id": "nm0327944",
-        "name": "Alejandro G. Iñárritu"
-    },
-    {
-        "id": "nm0000126",
-        "name": "Kevin Costner"
-    },
-    {
-        "id": "nm0003593",
-        "name": "Fred Zinnemann"
-    },
-    {
-        "id": "nm0001603",
-        "name": "Sam Peckinpah"
-    },
-    {
-        "id": "nm0181902",
-        "name": "George P. Cosmatos"
-    },
-    {
-        "id": "nm0418883",
-        "name": "Kevin Jarre"
+        "id": "nm0000186",
+        "name": "David Lynch"
     }
 ]
